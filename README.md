@@ -19,7 +19,7 @@
  </p>
 
 ### My projects
-<table width="300px">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/"><b>English for kids</b></a></td>
+      <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/"><b>English for kids                                     </b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://alexej1900.github.io/virtual-piano/virtual-piano/"><b>Virtual piano</b></a></td>
