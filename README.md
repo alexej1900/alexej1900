@@ -4,7 +4,7 @@
 
 ## I`m Alexey Bodnarchuk
 
-### Things I code with</h3>
+### Things I code with
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FF9E0F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -18,3 +18,31 @@
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F9A03C?style=flat-square&logo=figma&logoColor=white" />
  </p>
 
+### My projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/"><b>English for kids</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://alexej1900.github.io/virtual-piano/virtual-piano/"><b>Virtual piano</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://alexej1900.github.io/photo-filter/photo-filter/"><b>Photo-filter</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://alexej1900.github.io/online-zoo/pages/landing/index.html"><b>Online ZOO</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://alexej1900.github.io/match-match-game/index.html"><b>Match-match game</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="http://myrealtor.zzz.com.ua/"><b>Site for realtor</b></a></td>
+    </tr>
+  </tbody>
+</table>
