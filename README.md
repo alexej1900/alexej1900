@@ -1,6 +1,6 @@
 # Hey, nice to see you
-<hr>
-##Welcome to my page<br>
+
+## Welcome to my page<br>
 
 I`m Alexey Bodnarchuk
 
