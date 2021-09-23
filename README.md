@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, nice to see you
+<hr>
+##Welcome to my page<br>
+
+I`m Alexey Bodnarchuk
 
 <!--
 **alexej1900/alexej1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
