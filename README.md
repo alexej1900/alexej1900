@@ -14,7 +14,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/-Figma-E34F26?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-13aa52?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-F9A03C?style=flat-square&logo=figma&logoColor=white" />
  </p>
 
