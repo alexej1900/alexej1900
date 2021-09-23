@@ -1,8 +1,8 @@
 # Hey, nice to see you
 
-## Welcome to my page  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Welcome to my page
 ## I`m Alexey Bodnarchuk
-## Junior front-end developer. Little experience. But there is a huge motivation to become a professional in this field
+### Junior front-end developer. Little experience. But there is a huge motivation to become a professional in this field
 
 ### Things I code with
 <p>
