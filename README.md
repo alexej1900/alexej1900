@@ -19,7 +19,7 @@
  </p>
 
 ### My projects
-<table width="50%">
+<table width="300px">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
