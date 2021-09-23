@@ -1,7 +1,6 @@
 # Hey, nice to see you
 
-## Welcome to my page    ## I`m Alexey Bodnarchuk<br>
-
+## Welcome to my page    I`m Alexey Bodnarchuk<br>
 ## Junior front-end developer. Little experience. But there is a huge motivation to become a professional in this field
 
 ### Things I code with
