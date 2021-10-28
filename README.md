@@ -29,28 +29,36 @@
   <tbody>
     <tr>
       <td><a href="https://team25-app.herokuapp.com/"><b>Pointing-poker</b></a></td>
-      <td><a href="https://alexej1900/english-for-kids"><b>Code</b></a></td>
+      <td><a href="https://github.com/alexej1900/pointing-poker"><b>Front</b></a><br>
+      <a href="https://github.com/alexej1900/pointing-poker-server"><b>Back</b></a></td>
     </tr>
     <tr>
       <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/"><b>English for kids</b></a></td>
+      <td><a href="https://github.com/alexej1900/english-for-kids"><b>Code</b></a></td>
     </tr>
     <tr>
       <td><a href="https://alexej1900.github.io/virtual-piano/virtual-piano/"><b>Virtual piano</b></a></td>
+      <td><a href="https://github.com/alexej1900/virtual-piano"><b>Code</b></a></td>
     </tr>
     <tr>
       <td><a href="https://alexej1900.github.io/photo-filter/photo-filter/"><b>Photo-filter</b></a></td>
+      <td><a href="https://github.com/alexej1900/photo-filter"><b>Code</b></a></td>
     </tr>
     <tr>
       <td><a href="https://alexej1900.github.io/online-zoo/pages/landing/index.html"><b>Online ZOO</b></a></td>
+      <td><a href="https://github.com/alexej1900/online-zoo"><b>Code</b></a></td>
     </tr>
     <tr>
       <td><a href="https://alexej1900.github.io/match-match-game/index.html"><b>Match-match game</b></a></td>
+      <td><a href="https://github.com/alexej1900/match-match-game"><b>Code</b></a></td>
     </tr>
     <tr>
       <td><a href="http://myrealtor.zzz.com.ua/"><b>Site for realtor</b></a></td>
+      <td><a href="https://github.com/alexej1900/realtors"><b>Code</b></a></td>
     </tr>
      <tr>
       <td><a href="https://react-todo-alexej1900.herokuapp.com/"><b>ToDo (React)</b></a></td>
+      <td><a href="https://github.com/alexej1900/react-todo"><b>Code</b></a></td>
     </tr>
   </tbody>
 </table>
