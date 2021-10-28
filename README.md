@@ -23,11 +23,13 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>📄 Code</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://team25-app.herokuapp.com/"><b>Pointing-poker</b></a></td>
+      <td><a href="https://alexej1900/english-for-kids"><b>Code</b></a></td>
     </tr>
     <tr>
       <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/"><b>English for kids</b></a></td>
