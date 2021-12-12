@@ -2,7 +2,7 @@
 
 ## Welcome to my page
 ## I`m Alexey Bodnarchuk
-### Junior front-end developer. <br>Little experience. But there is a huge motivation to become a professional in this field
+### Front-end developer. <br>The quality and creativity of the work is my priority. I work on the result until the full completion of the project.
 
 ### Things I code with
 <p>
