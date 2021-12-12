@@ -28,7 +28,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://team25-app.herokuapp.com/"><b>Pointing-poker</b></a></td>
+      <td><a href="https://team25-app.herokuapp.com/"><b>Pointing-poker (React)</b></a></td>
       <td><a href="https://github.com/alexej1900/pointing-poker"><b>Front</b></a><br>
       <a href="https://github.com/alexej1900/pointing-poker-server"><b>Back</b></a></td>
     </tr>
