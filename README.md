@@ -45,7 +45,7 @@
       <td><a href="https://github.com/alexej1900/photo-filter"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexej1900.github.io/online-zoo/pages/landing/index.html"><b>Online ZOO</b></a></td>
+      <td><a href="https://alexej1900.github.io/online-zoo/online-zoo/pages/landing/index.html"><b>Online ZOO</b></a></td>
       <td><a href="https://github.com/alexej1900/online-zoo"><b>Code</b></a></td>
     </tr>
     <tr>
