@@ -1,7 +1,7 @@
 # Hey, nice to see you
 
 ## Welcome to my page
-## I`m Alexey Bodnarchuk
+## I`m Aliaksei Badnarchuk
 ### Front-end developer. <br>The quality and creativity of the work is my priority. I work on the result until the full completion of the project.
 
 ### Things I code with
