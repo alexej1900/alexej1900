@@ -65,6 +65,10 @@
       <td><a href="https://axess.ch/" target="_blank"><b>Axess architekten</b></a></td>
       <td><b></b></td>
     </tr>
+    <tr>
+      <td><a href="https://mettler-entwickler.ch)" target="_blank"><b>Mettler entwickelt</b></a></td>
+      <td><b></b></td>
+    </tr>
   </tbody>
 </table>
 
