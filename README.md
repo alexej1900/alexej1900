@@ -28,8 +28,12 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://ah-configurator.vercel.app/?id=K-02.03"><b>Configurator</b></a></td>
+      <td><a href="https://github.com/alexej1900/AH_configurator"><b>Code</b></a><br>
+    </tr>
     <tr>
-      <td><a href="https://team25-app.herokuapp.com/"><b>Pointing-poker (React)</b></a></td>
+      <td><b>Pointing-poker (React)</b></td>
       <td><a href="https://github.com/alexej1900/pointing-poker"><b>Front</b></a><br>
       <a href="https://github.com/alexej1900/pointing-poker-server"><b>Back</b></a></td>
     </tr>
@@ -54,10 +58,6 @@
       <td><a href="https://github.com/alexej1900/match-match-game"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="http://myrealtor.zzz.com.ua/"><b>Site for realtor</b></a></td>
-      <td><a href="https://github.com/alexej1900/realtors"><b>Code</b></a></td>
-    </tr>
-     <tr>
       <td><a href="https://react-todo-alexej1900.herokuapp.com/"><b>ToDo (React)</b></a></td>
       <td><a href="https://github.com/alexej1900/react-todo"><b>Code</b></a></td>
     </tr>
