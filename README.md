@@ -18,6 +18,11 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-13aa52?style=flat-square&logo=css3&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F9A03C?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-squaree&logo=bootstrap&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-squaree&logo=amazonaws&logoColor=white" />
+ 
+  
  </p>
 
 ### My projects
