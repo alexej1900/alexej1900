@@ -29,7 +29,7 @@
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://ah-configurator.vercel.app/?id=K-02.03"><b>Configurator</b></a></td>
+      <td><a href="https://ah-configurator.vercel.app/?id=K-02.03" target="_blank"><b>Configurator</b></a></td>
       <td><a href="https://github.com/alexej1900/AH_configurator"><b>Code</b></a><br>
     </tr>
     <tr>
@@ -38,32 +38,36 @@
       <a href="https://github.com/alexej1900/pointing-poker-server"><b>Back</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/"><b>English for kids</b></a></td>
+      <td><a href="https://alexej1900.github.io/english-for-kids/english-for-kids/" target="_blank"><b>English for kids</b></a></td>
       <td><a href="https://github.com/alexej1900/english-for-kids"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexej1900.github.io/virtual-piano/virtual-piano/"><b>Virtual piano</b></a></td>
+      <td><a href="https://alexej1900.github.io/virtual-piano/virtual-piano/" target="_blank"><b>Virtual piano</b></a></td>
       <td><a href="https://github.com/alexej1900/virtual-piano"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexej1900.github.io/photo-filter/photo-filter/"><b>Photo-filter</b></a></td>
+      <td><a href="https://alexej1900.github.io/photo-filter/photo-filter/" target="_blank"><b>Photo-filter</b></a></td>
       <td><a href="https://github.com/alexej1900/photo-filter"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexej1900.github.io/online-zoo/online-zoo/pages/landing/index.html"><b>Online ZOO</b></a></td>
+      <td><a href="https://alexej1900.github.io/online-zoo/online-zoo/pages/landing/index.html" target="_blank"><b>Online ZOO</b></a></td>
       <td><a href="https://github.com/alexej1900/online-zoo"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexej1900.github.io/match-match-game/index.html"><b>Match-match game</b></a></td>
+      <td><a href="https://alexej1900.github.io/match-match-game/index.html" target="_blank"><b>Match-match game</b></a></td>
       <td><a href="https://github.com/alexej1900/match-match-game"><b>Code</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://react-todo-alexej1900.herokuapp.com/"><b>ToDo (React)</b></a></td>
+      <td><a href="https://react-todo-alexej1900.herokuapp.com/" target="_blank"><b>ToDo (React)</b></a></td>
       <td><a href="https://github.com/alexej1900/react-todo"><b>Code</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://axess.ch/" target="_blank"><b>Axess architekten</b></a></td>
+      <td><b></b></td>
     </tr>
   </tbody>
 </table>
 
 ### Where to find me</h3>
-<p><a href="https://github.com/alexej1900" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/алексей-боднарчук" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/Alexey1900" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%23BB77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+<p><a href="https://github.com/alexej1900" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/badnarchuk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/Alexey1900" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%23BB77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> 
 </p>
