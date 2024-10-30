@@ -39,6 +39,18 @@
       <td><a href="https://github.com/alexej1900/AH_configurator"><b>Code</b></a><br>
     </tr>
     <tr>
+      <td><a href="https://vitus-areal.ch" target="_blank"><b>Vitus-areal</b></a></td>
+      <td><b></b></td>
+    </tr>
+    <tr>
+      <td><a href="https://axess.ch/" target="_blank"><b>Axess architekten</b></a></td>
+      <td><b></b></td>
+    </tr>
+    <tr>
+      <td><a href="https://mettler-entwickler.ch)" target="_blank"><b>Mettler entwickelt</b></a></td>
+      <td><b></b></td>
+    </tr>
+    <tr>
       <td><b>Pointing-poker (React)</b></td>
       <td><a href="https://github.com/alexej1900/pointing-poker"><b>Front</b></a><br>
       <a href="https://github.com/alexej1900/pointing-poker-server"><b>Back</b></a></td>
@@ -66,14 +78,6 @@
     <tr>
       <td><a href="https://react-todo-alexej1900.herokuapp.com/" target="_blank"><b>ToDo (React)</b></a></td>
       <td><a href="https://github.com/alexej1900/react-todo"><b>Code</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://axess.ch/" target="_blank"><b>Axess architekten</b></a></td>
-      <td><b></b></td>
-    </tr>
-    <tr>
-      <td><a href="https://mettler-entwickler.ch)" target="_blank"><b>Mettler entwickelt</b></a></td>
-      <td><b></b></td>
     </tr>
   </tbody>
 </table>
