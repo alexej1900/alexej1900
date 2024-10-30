@@ -39,7 +39,7 @@
       <td><a href="https://github.com/alexej1900/AH_configurator"><b>Code</b></a><br>
     </tr>
     <tr>
-      <td><a href="https://vitus-areal.ch" target="_blank"><b>Vitus-areal</b></a></td>
+      <td><a href="https://vitus-areal.ch" target="_blank"><b>Vitus-areal (3D Model and Three.js on page 'angebot') </b></a></td>
       <td><b></b></td>
     </tr>
     <tr>
