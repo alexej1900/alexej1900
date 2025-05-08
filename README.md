@@ -47,7 +47,7 @@
       <td><b></b></td>
     </tr>
     <tr>
-      <td><a href="https://mettler-entwickler.ch)" target="_blank"><b>Mettler entwickelt</b></a></td>
+      <td><a href="https://mettler-entwickler.ch" target="_blank"><b>Mettler entwickelt</b></a></td>
       <td><b></b></td>
     </tr>
     <tr>
