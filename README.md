@@ -43,11 +43,23 @@
       <td><b></b></td>
     </tr>
     <tr>
+      <td><a href="https://www.hrs.ch/" target="_blank"><b>HRS</b></a></td>
+      <td><b></b></td>
+    </tr>
+    <tr>
+      <td><a href="https://calydo.com" target="_blank"><b>Calydo AG</b></a></td>
+      <td><b></b></td>
+    </tr>
+    <tr>
+      <td><a href="https://brand-stadler.com/" target="_blank"><b>Stadler rebranding</b></a></td>
+      <td><b></b></td>
+    </tr>
+    <tr>
       <td><a href="https://axess.ch/" target="_blank"><b>Axess architekten</b></a></td>
       <td><b></b></td>
     </tr>
     <tr>
-      <td><a href="https://mettler-entwickler.ch" target="_blank"><b>Mettler entwickelt</b></a></td>
+      <td><a href="https://mettler-entwickler.ch" target="_blank"><b>Mettler entwickler</b></a></td>
       <td><b></b></td>
     </tr>
     <tr>
