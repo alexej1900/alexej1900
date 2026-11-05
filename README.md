@@ -47,10 +47,6 @@
       <td><b></b></td>
     </tr>
     <tr>
-      <td><a href="https://brand-stadler.com/" target="_blank"><b>Stadler rebranding</b></a></td>
-      <td><b></b></td>
-    </tr>
-    <tr>
       <td><a href="https://axess.ch/" target="_blank"><b>Axess architekten</b></a></td>
       <td><b></b></td>
     </tr>
